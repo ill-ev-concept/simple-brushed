@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
+%TF.CreationDate,2026-05-13T00:36:43-05:00*%
+%TF.ProjectId,brushed_ethab_redo,62727573-6865-4645-9f65-746861625f72,1.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-05-13 00:36:43*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X49250000Y-94499999D02*
+X146250000Y-94499999D01*
+X146250000Y-167250000D01*
+X49250000Y-167250000D01*
+X49250000Y-94499999D01*
+M02*

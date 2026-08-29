@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TC1108-3.3VDBTR
+D Microchip TC1108-3.3VDBTR, LDO Voltage Regulator, 300mA, 3.3 V +/-0.5%, 2.7  6 Vin, 3-Pin SOT-223
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21357C.pdf
+$ENDCMP
+#
+$CMP AP7387-50SA-7
+D LDO Voltage Regulators LDO CMOS LowCurr SOT23 T&R 3K
+K
+F https://www.diodes.com//assets/Datasheets/AP7387.pdf
+$ENDCMP
+#
+$CMP RD3L050SNFRATL
+D Automotive Nch 60V 5A Power MOSFET
+K
+F https://www.rohm.com/products/mosfets/automotive/single-nch/rd3l050snfra-product#productDetail
+$ENDCMP
+#
+$CMP MBR20100CT-G1
+D Schottky Diodes & Rectifiers HV Power Schottky 100Vrrm 2x10A 0.85V
+K
+F https://www.diodes.com/assets/Datasheets/MBR20100C.pdf
+$ENDCMP
+#
+$CMP 0389690002
+D Barrier Terminal Blocks .250 TRI BARRIER 02P
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1526058.pdf
+$ENDCMP
+#
+#End Doc Library
